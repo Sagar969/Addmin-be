@@ -1,0 +1,19 @@
+{
+  "name": "addmin-saas-be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sagar969/Addmin-be.git"
+  },
+  "author": "sagarmavai2002@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sagar969/Addmin-be/issues"
+  },
+  "homepage": "https://github.com/Sagar969/Addmin-be#readme"
+}
